@@ -1,0 +1,2 @@
+figma = https://www.figma.com/design/WB4GtMqCEZqJtuaWXd2oYd/Omar---Appointment-App?node-id=157-8718&p=f&t=xUdPqTIwA9brODNK-0
+api   = https://vcare.integration25.com/api
